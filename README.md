@@ -7,9 +7,5 @@ Toda la información es consumida desde la API TMDB (https://www.themoviedb.org/
 
 ## Capturas de pantalla
 
-![Detalles de película 1](https://github.com/cristianmflorez/movies-guide/blob/main/assets/img1.jpeg)
-![Detalles de película 2](https://github.com/cristianmflorez/movies-guide/blob/main/assets/img2.jpeg)
-![Pantalla Home/Películas recomendadas](https://github.com/cristianmflorez/movies-guide/blob/main/assets/img3.jpeg)
-![Lista de películas por ver](https://github.com/cristianmflorez/movies-guide/blob/main/assets/img4.jpeg)
-![Lista de películas favoritas](https://github.com/cristianmflorez/movies-guide/blob/main/assets/img5.jpeg)
+En carpeta assets
 
